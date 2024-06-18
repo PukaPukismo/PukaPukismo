@@ -1,6 +1,6 @@
 ## 🐟 Bem-vindo! :D 🐟
 
-Pode me chamar de "Pukismo" 😃!
+Pode me chamar de **"Pukismo"** 😃!
 
 🐟 Estou estudando na [Alura](https://www.alura.com.br)
 
