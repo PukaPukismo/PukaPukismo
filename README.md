@@ -13,7 +13,7 @@ Pode me chamar de **"Puquismo"** 😃!
  Yasmim.Michelle.Silva@escola.pr.gov.br
 
 
- ![](https://tenor.com/bwyXx.gif)
+ ![](https://tenor.com/pt-BR/view/pjsekai-project-sekai-gif-20114869)
 
 <!--
 **PukaPukismo/PukaPukismo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
