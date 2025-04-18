@@ -1,19 +1,19 @@
 ## 🐟 Bem-vindo! :D 🐟
 
-Pode me chamar de **"Pukismo"** 😃!
+Pode me chamar de **"Puquismo"** 😃!
 
-🐟 Estou estudando na [Alura](https://www.alura.com.br)
+🐟 Estou estudando na [Alura](https://www.alura.com.br);
 
-🐟 Estou me desenvolvendo na linguagem JavaScript;
+🐟 Estou me desenvolvendo nas linguagens JavaScript, Python, HTML e C#;
 
-🐟 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos;
+🐟 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos dentro da área escolar;
 
 ## 📫 Como entrar em contato comigo 📬
 
  Yasmim.Michelle.Silva@escola.pr.gov.br
 
 
- ![](https://media.tenor.com/DEckcZUNWxEAAAAi/pat-pat-kanata.gif)
+ ![](https://tenor.com/bwyXx.gif)
 
 
 <!--
