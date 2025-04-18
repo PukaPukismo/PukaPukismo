@@ -13,7 +13,7 @@ Pode me chamar de **"Puquismo"** 😃!
  Yasmim.Michelle.Silva@escola.pr.gov.br
 
 
- ![](https://tenor.com/pt-BR/view/pjsekai-project-sekai-gif-20114869)
+ ![](<div class="tenor-gif-embed" data-postid="20114869" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/pjsekai-project-sekai-gif-20114869">Pjsekai Project Sekai Sticker</a>from <a href="https://tenor.com/search/pjsekai-stickers">Pjsekai Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>)
 
 
 <!--
